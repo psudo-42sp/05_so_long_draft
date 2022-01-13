@@ -7,7 +7,7 @@ so_long project for [42 | São Paulo](https://github.com/42sp)
 [École 42/42 School](https://github.com/42School):
 
 - ***[Level 01](https://github.com/psudo-dev/42cursus_index)***
-  - ***04. Born 2 Be Root***
+  - ***05. So Long**
 
 ### Table of Contents  <!-- omit in toc -->
 
@@ -21,19 +21,11 @@ so_long project for [42 | São Paulo](https://github.com/42sp)
 
 ## Project
 
-
-
 ## Mandatory Part
-
-
 
 ## Bonus Part
 
-
-
 ## Setup
-
-
 
 ## Issues and Suggestions
 
